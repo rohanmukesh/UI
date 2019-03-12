@@ -3,7 +3,6 @@
 #### HTML5 & JavaScript
 * [ReactJS](https://facebook.github.io/react/) - *(Javascript Library For Building User Interfaces)*
 * [React Router](https://github.com/reactjs/react-router) - *(Routing library for React)*
-* [Sabre Spark](http://www.sabrespark.com/about/) - *(The Design Language for Sabre Applications)*	
 * [Redux](http://redux.js.org/index.html) - *(Redux is a predictable state container for JavaScript apps)*
 * [Redux-Form](http://redux-form.com/) - *(The best way to manage your form state in Redux)*
 * [React-Redux](https://github.com/reactjs/react-redux) - *(React bindings for Redux)*
